@@ -1,0 +1,14 @@
+{
+    "Images": [".png", ".jpg", ".jpeg", ".gif", ".bmp", ".tiff", ".webp", ".heic", ".svg", ".jfif", ".pjpeg", ".pjp", ".raw", ".cr2", ".nef", ".arw", ".ico"],
+    "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm", ".m4v", ".3gp", ".3g2", ".mts", ".m2ts", ".ts", ".vob"],
+    "Audio": [".mp3", ".wav", ".flac", ".aac", ".m4a", ".ogg", ".wma", ".aiff", ".opus", ".mid", ".midi", ".amr", ".caf"],
+    "Documents": [".pdf", ".doc", ".docx", ".txt", ".rtf", ".odt", ".tex", ".md", ".epub", ".mobi", ".pages", ".xps"],
+    "Spreadsheets": [".xls", ".xlsx", ".xlsm", ".ods", ".csv", ".tsv", ".numbers"],
+    "Slideshows": [".ppt", ".pptx", ".odp", ".key", ".pps", ".ppsx"],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz"],
+    "Programs": [".exe", ".bat", ".sh", ".app", ".msi", ".jar", ".cmd", ".com", ".gadget", ".wsf"],
+    "DiskImages": [".iso", ".img", ".dmg", ".bin"],
+    "Code": [".py", ".js", ".ts", ".java", ".cpp", ".c", ".cs", ".html", ".css", ".json", ".xml", ".lua", ".php", ".rb", ".go", ".asm", ".swift", ".kt", ".rs", ".r", ".pl", ".sh"],
+    "Designs": [".psd", ".ai", ".xd", ".blend", ".obj", ".fbx", ".stl", ".3ds", ".dae"],
+    "Systems": [".log", ".ini", ".cfg", ".dat", ".tmp", ".bak", ".sys", ".dll"]
+}
