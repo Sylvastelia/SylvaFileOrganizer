@@ -5,7 +5,7 @@ A small Python tool to organize files in a folder based on file extensions.
 ## Features
 - GUI mode (double-click)
 - CLI mode (run from terminal)
-- User-defined file extensions category ()
+- User-defined file extensions category
 - Optional sorting of unknown files into a `Misc` folder
 
 ## Usage
